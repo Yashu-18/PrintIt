@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".otpActivity">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="OTP verification"
+        android:layout_marginTop="70dp"
+        android:layout_marginStart="30dp"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter the verification code we just sent on your email address."
+        android:layout_marginTop="13dp"
+        android:layout_marginStart="30dp"
+        android:textSize="15sp"
+        android:textColor="#838BA1"
+         />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/otp1"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:inputType="number"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:gravity="center"
+            android:background="@drawable/otpshape"
+            android:maxLength="1"
+            android:layout_marginTop="55dp"
+            android:layout_marginStart="30dp">
+
+        </EditText>
+
+        <EditText
+            android:id="@+id/otp2"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:inputType="number"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:gravity="center"
+            android:background="@drawable/otpshape"
+            android:maxLength="1"
+            android:layout_marginTop="55dp"
+            android:layout_marginStart="20dp">
+
+        </EditText>
+
+        <EditText
+            android:id="@+id/otp3"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:inputType="number"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:gravity="center"
+            android:background="@drawable/otpshape"
+            android:maxLength="1"
+            android:layout_marginTop="55dp"
+            android:layout_marginStart="20dp">
+
+        </EditText>
+
+        <EditText
+            android:id="@+id/otp4"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:inputType="number"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:gravity="center"
+            android:background="@drawable/otpshape"
+            android:maxLength="1"
+            android:layout_marginTop="55dp"
+            android:layout_marginStart="20dp">
+
+        </EditText>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/confirm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="26dp"
+        android:layout_marginEnd="26dp"
+        style="@style/Widget.Material3.Button"
+        app:cornerRadius="10.40dp"
+        android:textSize="19.50dp"
+        android:layout_marginTop="45dp"
+        android:text="Confirm"
+        android:textColor="#fff">
+
+    </Button>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="350dp">
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#4D4D4D"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:textSize="18.20dp"
+            android:layout_marginTop="13dp"
+            android:text="Didn’t receive code?" />
+
+        <TextView
+            android:id="@+id/resend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#F70000"
+            android:layout_marginStart="7.80dp"
+            android:layout_marginTop="13dp"
+            android:textSize="18.20dp"
+            android:layout_weight="1"
+            android:text="Resend" />
+
+    </LinearLayout>
+
+</LinearLayout>

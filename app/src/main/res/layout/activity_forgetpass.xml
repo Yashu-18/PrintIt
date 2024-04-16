@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".otpActivity">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Forgot Password?"
+        android:layout_marginTop="70dp"
+        android:layout_marginStart="30dp"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Don't worry! It occurs. Please enter the email address linked with your account."
+        android:layout_marginTop="13dp"
+        android:layout_marginStart="30dp"
+        android:textSize="15sp"
+        android:textColor="#838BA1"
+        />
+
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textSize="18sp"
+        android:layout_marginStart="26dp"
+        android:layout_marginEnd="26dp"
+        android:layout_marginTop="55dp"
+        android:padding="7.80dp"
+        android:background="@drawable/shape"
+        android:inputType="textEmailAddress"
+        android:hint="Email"
+        android:textColorHint="#4D4D4D"/>
+
+
+
+
+    <Button
+        android:id="@+id/send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="26dp"
+        android:layout_marginEnd="26dp"
+        style="@style/Widget.Material3.Button"
+        app:cornerRadius="10.40dp"
+        android:textSize="19.50dp"
+        android:layout_marginTop="45dp"
+        android:text="forgot password"
+        android:textColor="#fff">
+
+    </Button>
+
+
+</LinearLayout>
