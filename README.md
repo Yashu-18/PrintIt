@@ -67,25 +67,26 @@ PrintIT is a scalable Android application designed to streamline the flex printi
 ## Screenshots
 
 ### Splash Screen
-![Splash Screen](https://github.com/user-attachments/assets/eaf815f6-d2fc-4f8a-a682-2887762b58d0)
+<img src="https://github.com/user-attachments/assets/eaf815f6-d2fc-4f8a-a682-2887762b58d0" alt="Splash Screen" width="400" height="300" />
 
 ### Authentication Screen
-![Authentication Screen](https://github.com/user-attachments/assets/159b5bd9-08e3-46b0-a779-3ac2c498a29d)
+<img src="https://github.com/user-attachments/assets/159b5bd9-08e3-46b0-a779-3ac2c498a29d" alt="Authentication Screen" width="400" height="300" />
 
 ### Product Listing
-![Product Listing](https://github.com/user-attachments/assets/4bc276aa-028a-48c1-bcef-80c0ca11734d)
+<img src="https://github.com/user-attachments/assets/4bc276aa-028a-48c1-bcef-80c0ca11734d" alt="Product Listing" width="400" height="300" />
 
 ### Product Details
-![Product Details](https://github.com/user-attachments/assets/650719dd-1714-4a1e-ab59-1473835bdc06)
+<img src="https://github.com/user-attachments/assets/650719dd-1714-4a1e-ab59-1473835bdc06" alt="Product Details" width="400" height="300" />
 
 ### Cart
-![Cart](https://github.com/user-attachments/assets/6ee91ce1-aef4-490b-8acf-72e9731bb275)
+<img src="https://github.com/user-attachments/assets/6ee91ce1-aef4-490b-8acf-72e9731bb275" alt="Cart" width="400" height="300" />
 
 ### Wishlist
-![Wishlist](https://github.com/user-attachments/assets/a73b63eb-bfe5-449f-aecd-24f2259f97cc)
+<img src="https://github.com/user-attachments/assets/a73b63eb-bfe5-449f-aecd-24f2259f97cc" alt="Wishlist" width="400" height="300" />
 
 ### Payment Simulation
-![Wishlist](https://github.com/user-attachments/assets/360037d7-0a36-4ee9-b8b2-e650cf4eee9b)
+<img src="https://github.com/user-attachments/assets/360037d7-0a36-4ee9-b8b2-e650cf4eee9b" alt="Payment Simulation" width="400" height="300" />
+
 
 
 
