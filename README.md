@@ -66,26 +66,22 @@ PrintIT is a scalable Android application designed to streamline the flex printi
 
 ## Screenshots
 
-### Splash Screen
-<img src="https://github.com/user-attachments/assets/eaf815f6-d2fc-4f8a-a682-2887762b58d0" alt="Splash Screen" width="400" height="700" />
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/eaf815f6-d2fc-4f8a-a682-2887762b58d0" alt="Splash Screen" width="200" height="150" /><br/>Splash Screen</td>
+    <td><img src="https://github.com/user-attachments/assets/159b5bd9-08e3-46b0-a779-3ac2c498a29d" alt="Authentication Screen" width="200" height="150" /><br/>Authentication Screen</td>
+    <td><img src="https://github.com/user-attachments/assets/4bc276aa-028a-48c1-bcef-80c0ca11734d" alt="Product Listing" width="200" height="150" /><br/>Product Listing</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/650719dd-1714-4a1e-ab59-1473835bdc06" alt="Product Details" width="200" height="150" /><br/>Product Details</td>
+    <td><img src="https://github.com/user-attachments/assets/6ee91ce1-aef4-490b-8acf-72e9731bb275" alt="Cart" width="200" height="150" /><br/>Cart</td>
+    <td><img src="https://github.com/user-attachments/assets/a73b63eb-bfe5-449f-aecd-24f2259f97cc" alt="Wishlist" width="200" height="150" /><br/>Wishlist</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/360037d7-0a36-4ee9-b8b2-e650cf4eee9b" alt="Payment Simulation" width="200" height="150" /><br/>Payment Simulation</td>
+  </tr>
+</table>
 
-### Authentication Screen
-<img src="https://github.com/user-attachments/assets/159b5bd9-08e3-46b0-a779-3ac2c498a29d" alt="Authentication Screen" width="400" height="700" />
-
-### Product Listing
-<img src="https://github.com/user-attachments/assets/4bc276aa-028a-48c1-bcef-80c0ca11734d" alt="Product Listing" width="400" height="700" />
-
-### Product Details
-<img src="https://github.com/user-attachments/assets/650719dd-1714-4a1e-ab59-1473835bdc06" alt="Product Details" width="400" height="700" />
-
-### Cart
-<img src="https://github.com/user-attachments/assets/6ee91ce1-aef4-490b-8acf-72e9731bb275" alt="Cart" width="400" height="700" />
-
-### Wishlist
-<img src="https://github.com/user-attachments/assets/a73b63eb-bfe5-449f-aecd-24f2259f97cc" alt="Wishlist" width="400" height="700" />
-
-### Payment Simulation
-<img src="https://github.com/user-attachments/assets/360037d7-0a36-4ee9-b8b2-e650cf4eee9b" alt="Payment Simulation" width="400" height="700" />
 
 
 
